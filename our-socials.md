@@ -2,7 +2,7 @@
 
 * [Twitter](https://twitter.com/THEORDERBOOKDEX)
 
-* [Discord](https://discord.com/invite/vWFGF3G3)
+* [Discord](https://discord.gg/UgqXSQHtay)
 
 * [Reddit](https://www.reddit.com/user/THEORDERBOOKDEX)
 
