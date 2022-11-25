@@ -30,8 +30,6 @@
 
 ## Further considerations
 
-* Keep in mind the ***Operator*** smart contract is esentially a **proxy**, and a malicious ***Operator Logic*** will be able to do **anything** with the funds held by the *Operator*.
+* Keep in mind that the ***Operator*** smart contract is an **upgradable proxy**, and a malicious implementation will be able to do **anything** with the funds held by the *Operator*.
 
-  > Therefore, **do not use** a newly released version of an *Orderbook* until you have **checked** that it's **safe to use**.
-
-* **Please read** about the ***Operator Logic*** upgrade scheme [here](operator-logic.md).
+  > Therefore, **do not upgrade** to a newly released version of the *Operator* until you have **checked** that it's **safe to use**.

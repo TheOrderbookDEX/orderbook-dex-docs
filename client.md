@@ -16,14 +16,6 @@
 
   > Check [this page](operator.md) for details.
 
-* The app has one **centralization issue** to keep in mind regarding the **upgradability** of the ***Operator*** smart contracts.
-
-  > It was decided to do it this way because it was deemed preferable than pushing on **every user** the cost of upgrading the smart contract on **each version release**.
-  >
-  > Please read more about this on [this page](operator-logic.md).
-
 ## More info
 
 * [The *Operator* smart contract](operator.md)
-
-* [The *Operator Logic* upgrade scheme](operator-logic.md)
