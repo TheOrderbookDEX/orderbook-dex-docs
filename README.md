@@ -32,7 +32,7 @@
 
   * [...*The Orderbook DEX* **Client**?](client.md)
 
-  * [...the utility token?](utility-token.md)
+  * [...**fees**?](fees.md)
 
   * [...the **Roadmap**?](roadmap.md)
 

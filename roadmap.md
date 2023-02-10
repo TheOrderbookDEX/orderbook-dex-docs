@@ -1,52 +1,40 @@
 # Roadmap
 
-> Keep in mind that dates **might change** depending on **funding** available and **feasibility**. Join [our socials](our-socials.md) to stay in the loop.
+> We are not assigning specific dates to **pending milestones** as work on them will depend on **funding achieved**.
 
-## Q3 2022
+> We are working on specifying the **funding requirements** and expected **development times** for each pending milestone. Join [our socials](our-socials.md) to stay in the loop.
 
-  * Deploy [**V1**](V1.md) on **testnet**
+## Milestones
 
-  * Release **temporary** Web App
+  * [x] Deploy [**V1**](V1.md) on **testnet**
 
-## Q4 2022
+  * [x] Release Web App
 
-  * Deploy [**V1**](V1.md) on **mainnet**
+  * [ ] Deploy [**V1**](V1.md) on **mainnet**
 
-  * Redesign and release **alpha version** of Web App
+  * [ ] UX focused redesign of the Web App
 
-    > We had to do this to make sure the Web App's code is **open source compatible** and can be disclosed and distributed without problems.
+  * [ ] Deploy [**V2**](V2.md) on **testnet**
 
-## Q1 2023
+  * [ ] Improve **analysis tools** of Web App
 
-  * Deploy [**V2**](V2.md) on **testnet**
+  * [ ] Revise and optimize [**V1**](V1.md)
 
-  * Improve **analysis tools** of Web App
+  * [ ] Deploy [**V2**](V2.md) on **mainnet**
 
-  * Revise and optimize [**V1**](V1.md)
+  * [ ] **First** iteration of **automation** tools of Web App
 
-## Q2 2023
+  * [ ] Revise and optimize [**V2**](V2.md)
 
-  * Deploy [**V2**](V2.md) on **mainnet**
+  * [ ] V1 and V2 **integration**
 
-  * **First** iteration of **automation** tools of Web App
+  * [ ] Deploy [**V3**](V3.md) on **testnet**
 
-## Q3 2023
+  * [ ] **Second** iteration of **automation** tools of Web App
 
-  * Revise and optimize [**V2**](V2.md)
+  * [ ] Deploy [**V3**](V3.md) on **mainnet**
 
-  * V1 and V2 **integration**
-
-## Q4 2023
-
-  * Deploy [**V3**](V3.md) on **testnet**
-
-  * **Second** iteration of **automation** tools of Web App
-
-## Q1 2024
-
-  * Deploy [**V3**](V3.md) on **mainnet**
-
-  * **Alpha** version of **Desktop App**
+  * [ ] **Desktop App**
 
 ## TBD
 
